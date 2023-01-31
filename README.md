@@ -15,6 +15,8 @@ The repository is split up into four sections: Business Understanding, Data prep
 One is for the baseline model. The other sub-section is for the decision tree model.
 
 Links to the final notebook and presentation are here:
+https://github.com/mayasandlin/CapstoneAI/blob/main/Predicting%20Lung%20Cancer.pptx
+https://github.com/mayasandlin/CapstoneAI/blob/main/Predicting%20Lung%20Cancer.ipynb
 
 To reproduce the data:
 1. Find a data set
