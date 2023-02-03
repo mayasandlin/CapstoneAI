@@ -4,7 +4,7 @@ The models used logistic regression and decision trees
 ![image](https://user-images.githubusercontent.com/110125695/214891810-e1cd01d9-f731-460b-a92b-7310533fc9f4.png)
 # Business Understanding and Data Understanding
 The industry was healthcare for this project. According to the CDC, age and smoking both increase the likelihood of having lung cancer.
-I chose a data set that considered both features, in addition to age, yellow fingers, anxiety, peer pressure, chronic disease, fatigue, allergy, wheezing, alcohol, coughing, shortness of breath, swallowing difficulty, and chest pain.
+I chose a data set that considered both features. Other features of the data included yellow fingers, anxiety, peer pressure, chronic disease, fatigue, allergy, wheezing, alcohol, coughing, shortness of breath, swallowing difficulty, and chest pain.
 # Modeling and Evaluation
 I utilized logistic regression for the baseline model. I created another model with Decision Trees.
 The Decision Tree model performed better. The baseline model had an accuracy of 88.46%. The decision tree model had an accuracy of 92.31%.
